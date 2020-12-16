@@ -1,6 +1,10 @@
 ## README
 
-My personal scripts for general use formatted into package. Deprecated. 
+My personal scripts for general use formatted into package. Use 
 
-Use on your own risks.
+>`devtools::install_github("TJetka/pkg_TJfunctionsR")`
+
+to install.
+
+Deprecated. Use on your own risks.
 @TJetka
